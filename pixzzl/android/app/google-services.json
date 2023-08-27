@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "16793535651",
+    "project_id": "pixzzle-app",
+    "storage_bucket": "pixzzle-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16793535651:android:ed32433ba2a5f71f012b16",
+        "android_client_info": {
+          "package_name": "com.example.pixzzl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "16793535651-9psfv21kq88v5pkbnbms0mnpi11jrn2j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyPGILJZl_16B37gxco3chgkOvfr_Hibc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "16793535651-9psfv21kq88v5pkbnbms0mnpi11jrn2j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
